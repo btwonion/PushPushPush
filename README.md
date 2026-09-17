@@ -1,13 +1,15 @@
 # PushPushPush
 
+<p align="center">
+  <img src="share/com.local.PushPushPush.svg" width="112" alt="PushPushPush icon">
+</p>
+
 PushPushPush is a small desktop reminder that helps you fit a few push-ups into
 your day. Choose how often you want a reminder and roughly how many push-ups
 you want to do, then let the app take care of the rest.
 
 It stays out of the way between reminders, keeps a local record of completed
 sets, and shows your progress over the last two weeks.
-
-![PushPushPush icon](share/com.local.PushPushPush.svg)
 
 ## What it does
 
