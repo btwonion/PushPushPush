@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=PushPushPush
+Comment=Friendly push-up break reminders
+Exec=@EXEC@
+Icon=com.local.PushPushPush
+Terminal=false
+Categories=Utility;GTK;
+StartupNotify=true
+X-GNOME-Autostart-enabled=true

@@ -1,0 +1,157 @@
+.app-surface,
+.reminder-surface {
+  background: #f7f8f2;
+  color: #183a35;
+}
+
+.app-surface .app-header button,
+.app-surface .app-header button label,
+.reminder-surface .app-header button,
+.reminder-surface .app-header button label {
+  color: #183a35;
+}
+
+.page-title,
+.hero-heading {
+  color: #183a35;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.secondary {
+  color: #596b65;
+}
+
+.section-label {
+  color: #596b65;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+
+.status-card,
+.settings-grid {
+  background: #ffffff;
+  border: 1px solid #d8e0d5;
+  border-radius: 16px;
+  padding: 18px;
+}
+
+.status-title {
+  color: #183a35;
+  font-weight: 700;
+}
+
+.count-card {
+  background: #e5efe1;
+  border: 1px solid #d8e0d5;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.graph-card,
+.recent-list {
+  background: #ffffff;
+  border: 1px solid #d8e0d5;
+  border-radius: 16px;
+}
+
+.recent-list row:not(:last-child) {
+  border-bottom: 1px solid #e6ebe4;
+}
+
+.history-count {
+  color: #183a35;
+  font-weight: 700;
+}
+
+.empty-history {
+  color: #596b65;
+  padding: 18px;
+}
+
+.rep-count {
+  color: #183a35;
+  font-size: 80px;
+  font-weight: 800;
+  font-feature-settings: "tnum";
+}
+
+.rep-unit {
+  color: #183a35;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+button.primary-action {
+  min-height: 48px;
+  border-radius: 14px;
+  color: #ffffff;
+  background: #1f584c;
+  font-weight: 700;
+}
+
+button.primary-action:hover {
+  background: #17483e;
+}
+
+button.primary-action:focus-visible {
+  outline: 3px solid #357766;
+  outline-offset: 2px;
+}
+
+.dark.app-surface,
+.dark.reminder-surface {
+  background: #15201d;
+  color: #e7f0ea;
+}
+
+.dark.app-surface .app-header button,
+.dark.app-surface .app-header button label,
+.dark.reminder-surface .app-header button,
+.dark.reminder-surface .app-header button label {
+  color: #e7f0ea;
+}
+
+.dark .page-title,
+.dark .hero-heading,
+.dark .status-title,
+.dark .rep-count,
+.dark .rep-unit {
+  color: #e7f0ea;
+}
+
+.dark .secondary,
+.dark .section-label {
+  color: #afc0b9;
+}
+
+.dark .status-card,
+.dark .settings-grid {
+  background: #202c28;
+  border-color: #3b4a45;
+}
+
+.dark .count-card {
+  background: #263b34;
+  border-color: #3b5149;
+}
+
+.dark .graph-card,
+.dark .recent-list {
+  background: #202c28;
+  border-color: #3b4a45;
+}
+
+.dark .recent-list row:not(:last-child) {
+  border-bottom-color: #34413d;
+}
+
+.dark .history-count {
+  color: #e7f0ea;
+}
+
+.dark .empty-history {
+  color: #afc0b9;
+}
