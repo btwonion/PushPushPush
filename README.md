@@ -1,8 +1,8 @@
-# PushPushPush
-
 <p align="center">
   <img src="share/com.local.PushPushPush.svg" width="112" alt="PushPushPush icon">
 </p>
+
+# PushPushPush
 
 PushPushPush is a small desktop reminder that helps you fit a few push-ups into
 your day. Choose how often you want a reminder and roughly how many push-ups
