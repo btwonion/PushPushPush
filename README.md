@@ -29,8 +29,7 @@ and main window still work without it.
 
 ## Install
 
-Download the latest package from the repository's **Releases** page, extract
-it, and run:
+Download or clone this repository, open the project folder, and run:
 
 ```bash
 ./install.sh
